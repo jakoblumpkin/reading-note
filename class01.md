@@ -12,7 +12,7 @@
  2. Second Item 
  3. Third Item
  
- You can create a diferent size Headers. Using #,##,###,####,##### or ######.
+ You can create different size Headers. Using #,##,###,####,##### or ######.
  # Is the biggest header and the it gets smaller each time you add one
  ###### The Smallest
  
