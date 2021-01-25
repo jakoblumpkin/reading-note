@@ -4,6 +4,6 @@ This is my repo for my code fellows reading notes,
 
 ##Growth Mindset
 
--Item 1
--Item 2
--Item 3
+1. Item 1
+2. Item 2
+2. Item 3
