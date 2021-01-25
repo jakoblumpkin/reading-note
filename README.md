@@ -10,5 +10,5 @@ This is my repo for my code fellows reading notes,
 
 
 # Table of Contents for Code 102
--class01.md
--class02.md
+-[Growth Mindset](class01.md)
+-[Coders Computer](class02.md)
