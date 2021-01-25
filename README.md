@@ -2,7 +2,7 @@
 This is my repo for my code fellows reading notes,
 
 
-##Growth Mindset
+###Growth Mindset
 
 -Item 1
 -Item 2
