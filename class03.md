@@ -1,0 +1,27 @@
+# Github
+
+Github is a place to store and save code, which is a commit.
+With Github you can share code with other developers. You can 
+also see all the past commits, which can be beneficial. 
+
+## Commands 
+
+### Steps to save code to github 
+
+1. git add filename
+This always you to add to a file getting ready to commit.
+
+2. git status
+always you to see the status of the commit
+
+3. git commit -m "Message here"
+creates the commit getting ready to push to github
+and allows you to add a message.
+
+4.git push origin main
+pushes the code to github in the main branch.
+
+Add commit and push
+
+git clone 'link to git repository'
+this always you to put git repository to a specific folder
