@@ -25,3 +25,6 @@ Add commit and push
 
 git clone 'link to git repository'
 -this allows you to put git repository to a specific folder
+
+git help 'command'
+-Allows you to get help on a specific command
