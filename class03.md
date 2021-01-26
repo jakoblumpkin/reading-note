@@ -28,3 +28,5 @@ git clone 'link to git repository'
 
 git help 'command'
 -Allows you to get help on a specific command
+
+[<== Back](README.md)
