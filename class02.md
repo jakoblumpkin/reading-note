@@ -1,10 +1,10 @@
-#Terminal
+# Terminal
 
 The terminal command line is used to navigate through files and folders on a
 computer. You can use in to create a folder, list everything thats within 
 a folder and create a file. 
 
-##Examples
+## Examples
 
 'ls' is used for listing all folders and files within the directiory your
 currently
@@ -22,6 +22,8 @@ cd ../
 'ls ../' list item in parent directory.
 
 '../../' Calls parent parent parent.
+
+
 
 
 
