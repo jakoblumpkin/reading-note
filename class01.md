@@ -13,11 +13,15 @@
  3. Third Item
  
  You can create different size Headers. Using #,##,###,####,##### or ######.
+ You put # in front of word
  # Is the biggest header and the it gets smaller each time you add one
  ###### The Smallest
+ 
  
  You can make word bold by raping this ** at the front of text and to text back. 
  **Bold**
  
- 
+ You can provide links to other pages example.
 [<== Back](README.md)
+
+
