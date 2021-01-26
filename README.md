@@ -6,3 +6,4 @@ This is my repo for my code fellows reading notes,
 - [Growth Mindset](class01.md)
 - [Coders Computer](class02.md)
 - [Revisions and the cloaud](class03.md)
+- [Reflection and Discussion](class04.md)
