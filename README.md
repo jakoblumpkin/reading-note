@@ -8,4 +8,5 @@ This is my repo for my code fellows reading notes,
 - [Revisions and the cloaud](class03.md)
 - [Reflection and Discussion](class04.md)
 - [Design web pages with CSS](class05.md)
-- [Reflection and Discussion Dynamic web pages with JavaScript](class05.md)
+- [Reflection and Discussion Dynamic web pages with JavaScript](class06.md)
+- [Computer Architecture and Logic](class06b.md)
