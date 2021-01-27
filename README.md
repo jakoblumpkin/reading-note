@@ -7,3 +7,4 @@ This is my repo for my code fellows reading notes,
 - [Coders Computer](class02.md)
 - [Revisions and the cloaud](class03.md)
 - [Reflection and Discussion](class04.md)
+- [Design web pages with CSS](class05.md)

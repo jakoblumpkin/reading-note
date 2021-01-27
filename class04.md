@@ -1,6 +1,6 @@
 ## HTML
 
-HTMl are texr documents. HTMlL use different tags 
+HTMl are text documents. HTML uses different tags 
 to give the section a meaning. 
 
 ### Examples
