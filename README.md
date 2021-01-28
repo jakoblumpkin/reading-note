@@ -12,3 +12,4 @@ This is my repo for my code fellows reading notes,
 - [Reflection and Discussion Dynamic web pages with JavaScript](class06.md)
 - [Computer Architecture and Logic](class06b.md)
 - [Programming with JavaScript](class07.md)
+- [Read: 08 - Operators and Loops](class08.md)
