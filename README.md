@@ -16,4 +16,5 @@ This is my repo for my code fellows reading notes,
 
 # Table of Contents for Code 201
 
--[Introductory HTML and JavaScript](class01_201.md) -[Basics of HTML, CSS & JS](class02_201.md)
+- [Introductory HTML and JavaScript](class01_201.md)
+- [Basics of HTML, CSS & JS](class02_201.md)
