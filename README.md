@@ -13,3 +13,7 @@ This is my repo for my code fellows reading notes,
 - [Computer Architecture and Logic](class06b.md)
 - [Programming with JavaScript](class07.md)
 - [Read: 08 - Operators and Loops](class08.md)
+
+# Table of Contents for Code 201
+-[Introductory HTML and JavaScript](class01201.md)
+-[Basics of HTML, CSS & JS](class02201.md)
