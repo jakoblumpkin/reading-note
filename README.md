@@ -18,3 +18,4 @@ This is my repo for my code fellows reading notes,
 
 - [Introductory HTML and JavaScript](class01_201.md)
 - [Basics of HTML, CSS & JS](class02_201.md)
+- [HTML Lists, Control Flow with JS, and the CSS Box Model](class03_201.md)
