@@ -20,3 +20,4 @@ This is my repo for my code fellows reading notes,
 - [Basics of HTML, CSS & JS](class02_201.md)
 - [HTML Lists, Control Flow with JS, and the CSS Box Model](class03_201.md)
 - [HTML Links, CSS Layout, JS Functions](class04_201.md)
+- [HTML Images; CSS Color & Text](class05_201.md)
