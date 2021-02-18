@@ -24,3 +24,4 @@ This is my repo for my code fellows reading notes,
 - [Object](class06_201.md)
 - [Object-Oriented Programming, HTML Tables](class07_201.md)
 - [CSS Layout](class08_201.md)
+- [Forms and JS Events](Read09.md)
