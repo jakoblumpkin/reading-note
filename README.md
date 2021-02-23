@@ -26,3 +26,4 @@ This is my repo for my code fellows reading notes,
 - [CSS Layout](class08_201.md)
 - [Forms and JS Events](Read09.md)
 - [Error Handling & Debugging](Read10.md)
+- [ Audio, Video, Images](Read11.md)
