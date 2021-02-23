@@ -27,3 +27,4 @@ This is my repo for my code fellows reading notes,
 - [Forms and JS Events](Read09.md)
 - [Error Handling & Debugging](Read10.md)
 - [ Audio, Video, Images](Read11.md)
+- [Docs for the HTML <canvas> Element & Chart.js](Read11.md)
