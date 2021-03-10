@@ -30,3 +30,7 @@ This is my repo for my code fellows reading notes,
 - [Docs for the HTML Element & Chart.js](Read11.md)
 - [CSS Transforms, Transitions, and Animations](Read14a.md)
 - [What Google Learned About Teams](Read14b.md)
+
+# Table of Contents for Code 301
+
+- [Introduction to React and Components](ReadClass01.md)
