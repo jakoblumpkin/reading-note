@@ -34,3 +34,4 @@ This is my repo for my code fellows reading notes,
 # Table of Contents for Code 301
 
 - [Introduction to React and Components](ReadClass01.md)
+- [State and Props](ReadClass02.md)
