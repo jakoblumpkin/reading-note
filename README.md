@@ -36,3 +36,4 @@ This is my repo for my code fellows reading notes,
 - [Introduction to React and Components](ReadClass01.md)
 - [State and Props](ReadClass02.md)
 - [Passing Functions as Props](ReadClass03.md)
+- [Passing Functions as Props](ReadClass04.md)
