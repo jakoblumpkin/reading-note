@@ -37,3 +37,4 @@ This is my repo for my code fellows reading notes,
 - [State and Props](ReadClass02.md)
 - [Passing Functions as Props](ReadClass03.md)
 - [Passing Functions as Props](ReadClass04.md)
+- [Putting it all together](ReadClass05.md)
