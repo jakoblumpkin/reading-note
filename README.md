@@ -39,3 +39,4 @@ This is my repo for my code fellows reading notes,
 - [Passing Functions as Props](ReadClass04.md)
 - [Putting it all together](ReadClass05.md)
 - [NODE.JS](ReadClass06.md)
+- [REST](ReadClass07.md)
