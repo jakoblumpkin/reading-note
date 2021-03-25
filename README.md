@@ -41,3 +41,4 @@ This is my repo for my code fellows reading notes,
 - [NODE.JS](ReadClass06.md)
 - [REST](ReadClass07.md)
 - [APIs](ReadClass08.md)
+- [FUNCTIONAL PROGRAMMING](ReadClass09.md)
