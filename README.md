@@ -42,3 +42,4 @@ This is my repo for my code fellows reading notes,
 - [REST](ReadClass07.md)
 - [APIs](ReadClass08.md)
 - [FUNCTIONAL PROGRAMMING](ReadClass09.md)
+- [In memory storage](ReadClass10.md)
