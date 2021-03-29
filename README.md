@@ -43,3 +43,4 @@ This is my repo for my code fellows reading notes,
 - [APIs](ReadClass08.md)
 - [FUNCTIONAL PROGRAMMING](ReadClass09.md)
 - [In memory storage](ReadClass10.md)
+- [Authentication](ReadClass11.md)
