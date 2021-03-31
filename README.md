@@ -44,5 +44,5 @@ This is my repo for my code fellows reading notes,
 - [FUNCTIONAL PROGRAMMING](ReadClass09.md)
 - [In memory storage](ReadClass10.md)
 - [Authentication](ReadClass11.md)
-- [CRUD](ReadClass12.md)
+- [Mongo and Mongoose](ReadClass12.md)
 - [CRUD](ReadClass13.md)
